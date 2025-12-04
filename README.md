@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ignacio Díaz
+# 👋 Hola, soy Ignacio Díaz Sinigaglia
 
 ### Data Science | Machine Learning | Deportes | Salud | Audiovisual
 
