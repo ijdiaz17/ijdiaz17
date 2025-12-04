@@ -20,11 +20,11 @@ Actualmente desarrollo proyectos vinculados a **machine learning, análisis depo
 
 ### 🔹 **Chatbot10**  
 Chatbot inspirado en la voz de Diego Armando Maradona, con sus frases más conocidas.  
-🔗 *[Ver proyecto](#https://github.com/ijdiaz17/CHATBOT-MARADONA)*
+🔗 *[Ver proyecto](https://github.com/ijdiaz17/CHATBOT-MARADONA)*
 
 ### 🔹 **Predicción del US Open**  
 Modelo de Machine Learning que predice resultados del US Open usando datos históricos, rankings, superficies y estadísticas de jugadores.  
-🔗 *[Ver proyecto](#https://github.com/ijdiaz17/PREDICCION_USOPEN_2025)*
+🔗 *[Ver proyecto](https://github.com/ijdiaz17/PREDICCION_USOPEN_2025)*
 
 ---
 
@@ -52,12 +52,6 @@ Modelo de Machine Learning que predice resultados del US Open usando datos hist�
 ## 🎓 Certificaciones y Cursos
 - Bootcamp de **Data Science** – The Bridge
 - Curso **PL-300 Power BI Data Analyst** – Microsoft Learn
-
----
-
-## 📊 GitHub Stats
-![Ignacio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ijdiaz17&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ijdiaz17&layout=compact&hide_border=true)
 
 ---
 
