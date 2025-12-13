@@ -4,14 +4,13 @@
 
 Soy científico de datos con más de 10 años de experiencia en el sector audiovisual. Me interesa combinar **datos, deporte y tecnología** para crear proyectos aplicados que generen impacto real.
 
-Actualmente desarrollo proyectos vinculados a **machine learning, análisis deportivo y chatbots**.
+Actualmente desarrollo proyectos vinculados a **machine learning, análisis y chatbots**.
 
 ---
 
 ## 🧑‍💻 Sobre mí
 - 🇦🇷 Argentino viviendo en Valencia, España
-- ⚽ Amante del deporte, especialmente del fútbol
-- 🔬 Interesado en el análisis deportivo, modelos predictivos y ciencia de datos aplicada
+- 🔬 Interesado en el análisis, modelos predictivos y ciencia de datos aplicada
 - 🧠 Buscando oportunidades como **Data Scientist**
 
 ---
