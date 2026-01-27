@@ -1,6 +1,6 @@
 # 👋 Hola, soy Ignacio Díaz Sinigaglia
 
-### Data Science | Machine Learning | Deportes | Salud | Audiovisual
+### Data Science | Machine Learning | Deportes | Audiovisual
 
 Soy científico de datos con más de 10 años de experiencia en el sector audiovisual. Me interesa combinar **datos, deporte y tecnología** para crear proyectos aplicados que generen impacto real.
 
