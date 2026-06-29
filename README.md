@@ -30,16 +30,14 @@ Participé en el diseño e implementación del sistema multi-agente.
 - 3 agentes especializados orquestados con LangGraph: clasificación de rol, RAG sobre ChromaDB, generación de respuesta empática. 
 - Memoria persistente de conversación con SQLite checkpointer
 
----
+🔗 *[Ver proyecto](https://github.com/ijdiaz17/Escudo_Escolar)*
+
 
 ### 🔹 **Chatbot10**  
 Chatbot inspirado en la voz de Diego Armando Maradona, con sus frases más conocidas.  
 `Python` `LLM`  
 🔗 *[Ver proyecto](https://github.com/ijdiaz17/CHATBOT-MARADONA)*
 
-### 🔹 **Escudo escolar**  
-Webapp para la detección temprana de bullying en entorno escolar..  
-🔗 *[Ver proyecto](https://github.com/ijdiaz17/Escudo_Escolar)*
 
 ### 🔹 **Predicción del US Open**  
 Modelo de Machine Learning que predice resultados del US Open usando datos históricos, rankings, superficies y estadísticas de jugadores.  
